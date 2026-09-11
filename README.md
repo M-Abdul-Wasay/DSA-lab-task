@@ -26,9 +26,9 @@ to get rid of the duplicates we use a bool.
 
 ### Test results for task 3 :
 
-1 2 3 4 5 
-15
-0 0 0 0 0 
-0
--2 4 -1 0 3 
+1 2 3 4 5 \
+15 \
+0 0 0 0 0 \
+0\
+-2 4 -1 0 3\ 
 4
