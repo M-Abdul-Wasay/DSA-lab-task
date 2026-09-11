@@ -24,7 +24,7 @@ to get rid of the duplicates we use a bool.
 
 
 
-### Test results for task 3 :
+### Test results for task 2 :
 
 1 2 3 4 5 \
 15 \
